@@ -1,16 +1,20 @@
-### Hi there 👋
+# Phil Wolstenholme
 
-<!--
-**philwolstenholme/philwolstenholme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋!
 
-Here are some ideas to get you started:
+I'm a lead frontend engineer at the [Co-op](https://github.com/coopdigital). I have a wide range of skills, knowledge, and experience, particularly focussed on accessibility and frontend web performance. Outside of work I'm interested in science, the environment, bouldering, bikes (everyday/utility), and open source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I like
+
+Currently I'm working on a React e-commerce SPA, but previously I did a lot of work with [Drupal](https://www.drupal.org/u/phil-wolstenholme). I'm a big fan of things like 11ty, Vue, Alpine and utility-first CSS.
+
+## Public speaking
+
+I like public speaking and am always looking for chances to do more. Here are a few recorded talks:
+
+* [Progressive decoupling with Drupal and Vue, DrupalCon Europe, Amsterdam](https://www.youtube.com/watch?v=TBLlwvM_uPc)
+* [Using a utility-first CSS and a component-first approach in Drupal, DrupalCon Europe, Remote](https://www.youtube.com/watch?v=MYY1teFZ_Fk)
+
+----
+
+Find out more about me on my [personal site](https://wolstenhol.me/) ([repo here](https://github.com/philwolstenholme/wolstenhol-11ty/)).
