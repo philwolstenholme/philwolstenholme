@@ -6,7 +6,7 @@ I'm a lead frontend engineer at the [Co-op](https://github.com/coopdigital). I h
 
 ## Tools I like
 
-Currently I'm working on a React e-commerce SPA, but previously I did a lot of work with [Drupal](https://www.drupal.org/u/phil-wolstenholme). I'm a big fan of things like 11ty, Vue, Alpine and utility-first CSS.
+Currently I'm working on a React e-commerce SPA, but previously I did a lot of work with [Drupal](https://www.drupal.org/u/phil-wolstenholme). I'm a big fan of things like 11ty, Vue, Alpine and utility-first CSS. I like tools that allow server rendered HTML and my work focuses as much as I can on performance and accessibility.
 
 ## Public speaking
 
