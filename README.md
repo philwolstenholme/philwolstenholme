@@ -13,7 +13,7 @@ Currently I'm working on a React e-commerce SPA, but previously I did a lot of w
 I like public speaking and am always looking for chances to do more. Here are a few recorded talks:
 
 * [Progressive decoupling with Drupal and Vue, DrupalCon Europe, Amsterdam](https://www.youtube.com/watch?v=TBLlwvM_uPc)
-* [Using a utility-first CSS and a component-first approach in Drupal, DrupalCon Europe, Remote](https://www.youtube.com/watch?v=MYY1teFZ_Fk)
+* [Using a utility-first CSS (with Tailwind CSS) and a component-first approach in Drupal, DrupalCon Europe, Remote](https://www.youtube.com/watch?v=MYY1teFZ_Fk)
 
 ----
 
