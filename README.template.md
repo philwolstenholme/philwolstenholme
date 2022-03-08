@@ -29,6 +29,8 @@ Here are a few recent blog posts of mine:
 
 {{ blog_posts }}
 
+(This section is kept up-to-date automatically by a [Pipedream](https://pipedream.com) workflow!)
+
 ----
 
 Find out more about me on my [personal site](https://wolstenhol.me/) ([repo here](https://github.com/philwolstenholme/wolstenhol-11ty/)).
