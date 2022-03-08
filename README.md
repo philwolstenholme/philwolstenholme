@@ -1,6 +1,6 @@
 ## About me
 
-Hi p!
+Hi :wave:!
 
 I'm a lead frontend engineer at the [Co-op](https://github.com/coopdigital).
 
