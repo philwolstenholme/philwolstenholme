@@ -27,6 +27,7 @@ I like public speaking and am always looking for chances to do more. Here are a 
 
 Here are a few recent blog posts of mine:
 
+* [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
 * [Problems with using useFakeTimers('modern') in a create-react-app (CRA) project with Jest 26 and Lodash's debounce function](https://dev.to/philw_/problems-with-using-usefaketimersmodern-in-a-create-react-app-cra-project-with-jest-26-and-lodashs-debounce-function-3ohd)
 * [Companies using utility-first CSS (like Tailwind) in production](https://dev.to/philw_/companies-using-utility-first-css-for-example-tailwind-in-production-75f)
 * [Accessible and animated expand/collapse components with Alpine.js and Tailwind CSS](https://dev.to/philw_/accessible-and-animated-expand-collapse-components-with-alpine-js-and-tailwind-css-ccn)
