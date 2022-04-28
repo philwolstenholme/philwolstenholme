@@ -27,13 +27,12 @@ I like public speaking and am always looking for chances to do more. Here are a 
 
 Here are a few recent blog posts of mine:
 
+* [Writing a Vite plugin to add Critical CSS no-JS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 * [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
 * [Problems with using useFakeTimers('modern') in a create-react-app (CRA) project with Jest 26 and Lodash's debounce function](https://dev.to/philw_/problems-with-using-usefaketimersmodern-in-a-create-react-app-cra-project-with-jest-26-and-lodashs-debounce-function-3ohd)
 * [Companies using utility-first CSS (like Tailwind) in production](https://dev.to/philw_/companies-using-utility-first-css-for-example-tailwind-in-production-75f)
 * [Accessible and animated expand/collapse components with Alpine.js and Tailwind CSS](https://dev.to/philw_/accessible-and-animated-expand-collapse-components-with-alpine-js-and-tailwind-css-ccn)
 * [A small TailwindCSS plugin to emulate support for Flexbox gap in older Safari/iOS browsers](https://dev.to/philw_/a-small-tailwindcss-plugin-to-emulate-support-for-gap-in-older-safari-ios-browsers-1hld)
-* [Using Style Dictionary to transform Tailwind config into SCSS variables, CSS custom properties, and JavaScript via design tokens](https://dev.to/philw_/using-style-dictionary-to-transform-tailwind-config-into-scss-variables-css-custom-properties-and-javascript-via-design-tokens-24h5)
-* [Tying Tailwind styling to ARIA attributes](https://dev.to/philw_/tying-tailwind-styling-to-aria-attributes-502f)
 
 
 (This section is kept up-to-date automatically by a [Pipedream](https://pipedream.com) workflow!)
