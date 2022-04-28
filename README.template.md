@@ -23,11 +23,13 @@ I like public speaking and am always looking for chances to do more. Here are a 
 * [Progressive decoupling with Drupal and Vue, DrupalCon Europe, Amsterdam](https://www.youtube.com/watch?v=TBLlwvM_uPc)
 * [Using a utility-first CSS (with Tailwind CSS) and a component-first approach in Drupal, DrupalCon Europe, Remote](https://www.youtube.com/watch?v=MYY1teFZ_Fk)
 
-## :book: Blog posts
+## :books: Blog posts
 
 Here are a few recent blog posts of mine:
 
 {{ blog_posts }}
+
+[:book: You can read more blog posts on my dev.to profile](https://dev.to/philw_).
 
 (This section is kept up-to-date automatically by a [Pipedream](https://pipedream.com) workflow!)
 
