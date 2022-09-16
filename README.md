@@ -23,17 +23,19 @@ I like public speaking and am always looking for chances to do more. Here are a 
 * [Progressive decoupling with Drupal and Vue, DrupalCon Europe, Amsterdam](https://www.youtube.com/watch?v=TBLlwvM_uPc)
 * [Using a utility-first CSS (with Tailwind CSS) and a component-first approach in Drupal, DrupalCon Europe, Remote](https://www.youtube.com/watch?v=MYY1teFZ_Fk)
 
-## :book: Blog posts
+## :books: Blog posts
 
 Here are a few recent blog posts of mine:
 
-* [Writing a Vite plugin to add Critical CSS no-JS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
+* [Adding one centralised banner to a whole portfolio of websites via the power of 'the edge'](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
+* [Writing a Vite plugin to add lazyloaded critical CSS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 * [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
 * [Problems with using useFakeTimers('modern') in a create-react-app (CRA) project with Jest 26 and Lodash's debounce function](https://dev.to/philw_/problems-with-using-usefaketimersmodern-in-a-create-react-app-cra-project-with-jest-26-and-lodashs-debounce-function-3ohd)
 * [Companies using utility-first CSS (like Tailwind) in production](https://dev.to/philw_/companies-using-utility-first-css-for-example-tailwind-in-production-75f)
 * [Accessible and animated expand/collapse components with Alpine.js and Tailwind CSS](https://dev.to/philw_/accessible-and-animated-expand-collapse-components-with-alpine-js-and-tailwind-css-ccn)
-* [A small TailwindCSS plugin to emulate support for Flexbox gap in older Safari/iOS browsers](https://dev.to/philw_/a-small-tailwindcss-plugin-to-emulate-support-for-gap-in-older-safari-ios-browsers-1hld)
 
+
+[:book: You can read more blog posts on my dev.to profile](https://dev.to/philw_).
 
 (This section is kept up-to-date automatically by a [Pipedream](https://pipedream.com) workflow!)
 
