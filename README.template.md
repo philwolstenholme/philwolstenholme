@@ -8,6 +8,11 @@ I have a wide range of skills, knowledge, and experience, particularly focussed 
 
 Outside of work I'm interested in science, the environment, bouldering, bikes (everyday/utility), and open source software.
 
+## :globe_with_meridians: Me on the internet
+
+* https://wolstenhol.me
+* https://twitter.com/philw_
+
 ## :toolbox: Tools I like
 
 Currently I'm working on a React e-commerce SPA, but previously I did a lot of work with [Drupal](https://www.drupal.org/u/phil-wolstenholme).
