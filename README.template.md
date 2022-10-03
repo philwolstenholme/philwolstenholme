@@ -8,7 +8,7 @@ I have a wide range of skills, knowledge, and experience, particularly focussed 
 
 Outside of work I'm interested in science, the environment, bouldering, bikes (everyday/utility), and open source software.
 
-## :globe_with_meridians: Me on the internet
+## :computer: Me on the internet
 
 * https://wolstenhol.me
 * https://twitter.com/philw_
