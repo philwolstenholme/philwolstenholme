@@ -1,5 +1,3 @@
-![Portrait photo of me, Phil Wolstenholme](https://user-images.githubusercontent.com/6339853/193702199-02d45580-1cfd-44e4-8957-95095b51a6f2.png)
-
 ## About me
 
 Hi :wave:!
