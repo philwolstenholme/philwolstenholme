@@ -32,12 +32,12 @@ I like public speaking and am always looking for chances to do more. Here are a 
 
 Here are a few recent blog posts of mine:
 
+* [Feature detecting support for CSS cascade layers with HTTP and edge functions](https://dev.to/philw_/feature-detecting-support-for-css-cascade-layers-with-http-and-edge-functions-n9p)
 * [Move a user's country to the top of a select element with Netlify Edge Functions and geolocation](https://dev.to/philw_/move-a-users-country-to-the-top-of-a-select-element-dropdown-list-with-netlify-edge-functions-and-geolocation-1nhd)
 * [Using a Netlify Edge Function to cut down on header bloat by removing HTML-only headers from static assets](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
 * [Adding one centralised banner to a whole portfolio of websites via the power of 'the edge'](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
 * [Writing a Vite plugin to add lazyloaded critical CSS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 * [Show off your Lighthouse scores as static HTML in Eleventy with the PageSpeed Insights API](https://dev.to/philw_/show-off-your-lighthouse-scores-in-eleventy-with-the-pagespeed-insights-api-1cpp)
-* [Problems with using useFakeTimers('modern') in a create-react-app (CRA) project with Jest 26 and Lodash's debounce function](https://dev.to/philw_/problems-with-using-usefaketimersmodern-in-a-create-react-app-cra-project-with-jest-26-and-lodashs-debounce-function-3ohd)
 
 
 [:book: You can read more blog posts on my dev.to profile](https://dev.to/philw_).
