@@ -32,12 +32,12 @@ I like public speaking and am always looking for chances to do more. Here are a 
 
 Here are a few recent blog posts of mine:
 
+* [Building a maintenance page that brings your site back to life when it's ready](https://dev.to/philw_/building-a-maintenance-page-that-brings-your-site-back-to-life-when-its-ready-2han)
 * [Using Vercel's instant rollback feature in your own CI/CD pipeline](https://dev.to/philw_/using-vercels-instant-rollback-feature-in-your-own-cicd-pipeline-57oi)
 * [Feature detecting support for CSS cascade layers with HTTP and edge functions](https://dev.to/philw_/feature-detecting-support-for-css-cascade-layers-with-http-and-edge-functions-n9p)
 * [Move a user's country to the top of a select element with Netlify Edge Functions and geolocation](https://dev.to/philw_/move-a-users-country-to-the-top-of-a-select-element-dropdown-list-with-netlify-edge-functions-and-geolocation-1nhd)
 * [Using a Netlify Edge Function to cut down on header bloat by removing HTML-only headers from static assets](https://dev.to/philw_/using-a-netlify-edge-worker-to-cut-down-on-header-bloat-by-removing-html-only-headers-from-your-static-assets-3nh9)
 * [Adding one centralised banner to a whole portfolio of websites via the power of 'the edge'](https://dev.to/philw_/centralised-emergency-banners-via-the-edge-and-your-cdn-2app)
-* [Writing a Vite plugin to add lazyloaded critical CSS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 
 
 [:book: You can read more blog posts on my dev.to profile](https://dev.to/philw_).
