@@ -11,7 +11,7 @@ Outside of work I'm interested in science, the environment, bouldering, bikes (e
 ## :computer: Me on the internet
 
 * https://wolstenhol.me
-* https://twitter.com/philw_
+* https://bsky.app/profile/wolstenhol.me
 
 ## :toolbox: Tools I like
 
